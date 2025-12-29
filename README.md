@@ -63,8 +63,5 @@ This project explores how Logistic Regression and Naive Bayes classifiers perfor
 - Try additional models (Random Forest, XGBoost) for baseline comparison.
 - Add more features (possession stats, expected goals, player-level features).
 
-## License
-Specify your license here (e.g., MIT). If none, add one before public reuse.
-
 ## Contact
 Arthav Patel — GitHub: [@Arthavpatel](https://github.com/Arthavpatel)
